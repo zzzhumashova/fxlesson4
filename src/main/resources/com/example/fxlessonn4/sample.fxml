@@ -21,17 +21,17 @@
                             <children>
                                 <ImageView fx:id="Exit" fitHeight="22.0" fitWidth="22.0" layoutX="665.0" layoutY="2.0" pickOnBounds="true" preserveRatio="true">
                                     <image>
-                                        <Image url="@../../../../../../../../Pictures/exit.png" />
+                                        <Image url="@Images/exit.png" />
                                     </image>
                                 </ImageView>
                                 <ImageView fx:id="max_img" fitHeight="22.0" fitWidth="22.0" layoutX="631.0" layoutY="2.0" pickOnBounds="true" preserveRatio="true">
                                     <image>
-                                        <Image url="@../../../../../../../../Pictures/max_img.png" />
+                                        <Image url="@Images/max_img.png" />
                                     </image>
                                 </ImageView>
                                 <ImageView fx:id="min_img" fitHeight="22.0" fitWidth="22.0" layoutX="600.0" layoutY="2.0" pickOnBounds="true" preserveRatio="true">
                                     <image>
-                                        <Image url="@../../../../../../../../Pictures/min_img.png" />
+                                        <Image url="@Images/min_img.png" />
                                     </image>
                                 </ImageView>
                             </children>
